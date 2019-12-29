@@ -5,3 +5,15 @@ _change the line [31](https://github.com/mateusfg7/Prime-Number/blob/fffccfdcfb5
 ```c++
 while(/*INFINITY CONDIITON*/){}
 ```
+
+**to compilate on bash linux**
+
+`g++ main.cpp -o main.bin`
+
+`chmod +x main.bin`
+
+`./main.bin`
+
+**to compilate on windows cmd**
+
+`gcc main.cpp -o main.exe`
